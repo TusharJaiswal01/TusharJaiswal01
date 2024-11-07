@@ -8,15 +8,15 @@
 
 <div align="center">
 
-📫 Reach out to me: tusharjaiswal01@gmail.com
+📫 Reach out to me: tusharjaiswaltj01@gmail.com
 
 </div>
 
 <div align="center"> 
-  <a href="mailto:tusharjaiswal01@gmail.com">
+  <a href="mailto:tusharjaiswaltj01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/tushar-jaiswal-0191a2271" target="_blank">
+  <a href="https://www.linkedin.com/in/tushar-jaiswal-24130a28a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
