@@ -18,8 +18,7 @@ I am a **MERN Stack Developer** passionate about **coding, hackathons, and build
 📩 **Contact Me:** tusharjaiswaltj01@gmail.com  
 🌍 **GitHub:** [TusharJaiswal01](https://github.com/TusharJaiswal01)  
 💼 **LinkedIn:** [TusharJaiswal](https://www.linkedin.com/in/tushar-jaiswal01/)  
-🐦 **Twitter:** [@TusharJaiswal](https://twitter.com/)  
-📷 **Instagram:** [@TusharJaiswal](https://instagram.com/)  
+
 
 ---
 
