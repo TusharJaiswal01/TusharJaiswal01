@@ -24,7 +24,11 @@ I am a **MERN Stack Developer** passionate about **coding, hackathons, and build
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,html,css,nodejs,express,nextjs,react,mongodb,mysql,git,github,postman,tailwind,bootstrap" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c" width="100"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" width="100"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react" width="100"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github" width="100"/>
+  <img src="https://skillicons.dev/icons?i=postman,tailwind,bootstrap" width="100"/>
 </p>
 
 ---
@@ -71,16 +75,21 @@ A **collaborative developer workspace** integrating **real-time coding, version 
 - **🌍 Webmaster** for Spectra Club  
 - **🎓 B.Tech in Computer Science** | Acropolis Institute of Technology and Research (Class of 2026)  
 - **📊 Data Structures Learner & Visualizer**  
+- **💼 Ex-Intern at Daphnis Lab**  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TusharJaiswal01&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TusharJaiswal01&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharJaiswal01&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharJaiswal01&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 📌 **Let's innovate and build together! 🚀**
