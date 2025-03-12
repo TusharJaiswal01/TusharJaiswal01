@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/TusharJaiswal01/Cover_photo/blob/main/Tushar%20Jaiswal%20(2).png" alt="Tushar Jaiswal Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/TusharJaiswal01/Cover_photo/main/Tushar%20Jaiswal%20(2).png" alt="Tushar Jaiswal Banner" width="100%"/>
 </p>
 
 <h1 align="center">
@@ -18,6 +18,8 @@ I am a **MERN Stack Developer** passionate about **coding, hackathons, and build
 📩 **Contact Me:** tusharjaiswaltj01@gmail.com  
 🌍 **GitHub:** [TusharJaiswal01](https://github.com/TusharJaiswal01)  
 💼 **LinkedIn:** [TusharJaiswal](https://www.linkedin.com/in/tushar-jaiswal01/)  
+🐦 **Twitter:** [@TusharJaiswal](https://twitter.com/)  
+📷 **Instagram:** [@TusharJaiswal](https://instagram.com/)  
 
 ---
 
@@ -80,3 +82,4 @@ A **collaborative developer workspace** integrating **real-time coding, version 
 ---
 
 📌 **Let's innovate and build together! 🚀**
+
