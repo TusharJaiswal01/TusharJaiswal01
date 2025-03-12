@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TusharJaiswal01/Cover_photo/main/Tushar%20Jaiswal%20(2).png" alt="Tushar Jaiswal Banner" width="100%"/>
+  <img src="https://github.com/TusharJaiswal01/Cover_photo/blob/main/Tushar%20Jaiswal%20(2).png" alt="Tushar Jaiswal Banner" width="100%"/>
 </p>
 
 <h1 align="center">
