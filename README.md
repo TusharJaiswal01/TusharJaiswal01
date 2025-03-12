@@ -19,17 +19,12 @@ I am a **MERN Stack Developer** passionate about **coding, hackathons, and build
 🌍 **GitHub:** [TusharJaiswal01](https://github.com/TusharJaiswal01)  
 💼 **LinkedIn:** [TusharJaiswal](https://www.linkedin.com/in/tushar-jaiswal01/)  
 
-
 ---
 
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c&theme=dark" width="120" height="50"/>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark" width="120"/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react&theme=dark" width="120"/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github&theme=dark" width="120"/>
-  <img src="https://skillicons.dev/icons?i=postman,tailwind,bootstrap&theme=dark" width="120"/>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,html,css,nodejs,express,nextjs,react,mongodb,mysql,git,github,postman,tailwind,bootstrap&theme=dark" width="100%"/>
 </p>
 
 ---
