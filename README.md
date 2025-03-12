@@ -25,7 +25,7 @@ I am a **MERN Stack Developer** passionate about **coding, hackathons, and build
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c&theme=dark" width="120"/>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c&theme=dark" width="120" height="50"/>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark" width="120"/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react&theme=dark" width="120"/>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github&theme=dark" width="120"/>
