@@ -1,105 +1,86 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tusharjaiswal01.tusharjaiswal01" />
+![Tushar Jaiswal Banner](https://github.com/TusharJaiswal01/Cover_photo/blob/main/Tushar%20Jaiswal%20(2).png)
 
-<h1 align="center">Hello, I'm Tushar Jaiswal!</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&pause=1000&color=ff5733&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hello%2C+I'm+Tushar+Jaiswal!+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
-<h3 align="center">A MERN Stack Developer with a passion for coding, hackathons, and building impactful projects</h3>
-
-<br/>
-
-<div align="center">
-
-📫 Reach out to me: tusharjaiswaltj01@gmail.com
-
-</div>
-
-<div align="center"> 
-  <a href="mailto:tusharjaiswaltj01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/tushar-jaiswal-24130a28a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
-
-<hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp,sql" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,tailwind,bootstrap,react,nextjs,nodejs,expressjs,jest" /><br>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,postman" /> <br>
-</div>
-
-<br/>
-<hr/>
-
-# About Me
-
-A **4x Hackathon Winner** and a **Full Stack Developer** dedicated to creating impactful solutions. With a strong foundation in the MERN stack and experience in high-stakes competitions, I’m passionate about leveraging technology to solve real-world problems and drive innovation.
-
-<hr>
-<div align=left>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff5733&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;6x+Hackathon+Winner;Building+Impactful+Projects+Globally" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🏆 **Hackathon Achievements**
+### 🚀 About Me
+I am a **MERN Stack Developer** passionate about **coding, hackathons, and building cutting-edge solutions**. With a track record of **6 hackathon victories** at both **national and international levels**, I thrive on solving real-world problems with **AI, Web3, and cloud technologies**.
 
-### **International Hackathon Winner**  
-- **Project:** *DisasterXAI*  
-  Designed a **disaster management system** leveraging AI to enhance real-time response and prediction, earning top recognition in an international hackathon.
-
-### **Two National-Level Hackathon Wins**  
-- **Kriyeta 3.0 Hackathon**  
-  Developed **Connect4All**, a remote collaboration platform facilitating real-time collaboration among teams.
-- **Skitech Innothon**  
-  Built **Krishak**, an end-to-end solution for farmers, integrating **AI** and **IoT** for efficient farming management.
+📩 **Contact Me:** tusharjaiswaltj01@gmail.com  
+🌍 **GitHub:** [TusharJaiswal01](https://github.com/TusharJaiswal01)  
+💼 **LinkedIn:** [TusharJaiswal](https://www.linkedin.com/in/tushar-jaiswal-01/)  
+🐦 **Twitter:** [@TusharJaiswal](https://twitter.com/)  
+📷 **Instagram:** [@TusharJaiswal](https://instagram.com/)  
 
 ---
 
-## 👨‍💻 Developer Community Contributions
+## ⚡ Tech Stack
 
-- **Software Developer** at *Computer Society of India* (CSI) College Club
-- **Webmaster** for *Spectra Club*
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,html,css,nodejs,express,nextjs,react,mongodb,mysql,git,github,postman,tailwind,bootstrap" alt="Tech Stack Icons" />
+</p>
 
 ---
 
-## 🏫 Education
+## 🏆 Achievements
 
-**Bachelor of Technology in Computer Science**  
-*Acropolis Institute of Technology and Research, Class of 2026*  
+✔ **6x Hackathon Winner** (International & National)
+- **🏆 DisasterXAI (International Hackathon Winner)** - AI-driven disaster management system.
+- **🏆 Kriyeta 3.0 (Winner)** - Built *Connect4All*, a remote collaboration platform.
+- **🏆 Skitech Innothon (Winner)** - Developed *Krishak*, an AI & IoT-powered farming solution.
+- **🏆 Prayatana 2.0 Hackathon (Winner)**
+- **🏆 AdvityaXJPD Hackathon (Winner)**
 
+---
 
-## 💻 Skills
+## 📂 Featured Projects
 
-**Languages**: Java, Python, C++, C, JavaScript, TypeScript, SQL  
-**Frameworks/Libraries**: Next.js, React, Node.js, Express, Bootstrap, Tailwind CSS  
-**Data/Tools**: MongoDB, MySQL, Git, GitHub, Postman
+### 🔥 **FireXAI**
+An *end-to-end fire management system* integrating **real-time fire detection, NOC factor assessment, and emergency response.**
 
-## 📂 Projects
+### ✈️ **TravelXAI**
+An **AI-driven travel companion** featuring **mood-based recommendations, emergency alerts, and smart itinerary planning.**
 
-### **CitySync**  
-*Connecting Government Bodies for Smarter Project Management*  
-- Developed a centralized platform for government agencies to streamline project execution without overlapping.  
-- Features include real-time notifications to avoid project clashes, e.g., road and pipeline repairs.
+### 🎯 **TalentXAI**
+An **AI-powered career guidance platform** for **resume shortlisting, job recommendations, and career insights.**
 
-### **StudySync**  
-*An E-Learning Platform for Comprehensive Online Education*  
-- Built an interactive, scalable platform for students and instructors, offering a rich set of educational tools and resources.  
-- Implemented features like live classes, assignments, and grading, providing an end-to-end learning experience.
+### 🌾 **KisanSharthi**
+A **tech-driven solution for farmers** providing **AI-powered crop recommendations, soil analysis, and market insights.**
 
-### **TechStudio**  
-*A Remote Collaboration Platform for Developers*  
-- Integrated coding workspaces, version control, and task management for seamless developer collaboration.  
-- Enhanced productivity by enabling real-time communication and collaboration among teams.
+### 🏙️ **CitySync**
+A **smart city project management tool** designed to help **governments prevent project overlaps and optimize urban planning.**
 
-### **Krishak**  
-*End-to-End Solution for Farmers*  
-- Engineered AI-driven solutions for disease detection, crop planning, and soil analysis, optimizing farming practices by 40%.  
-- Added IoT soil sensors and an AI-based irrigation planner, boosting efficiency by 35% with **Power BI** insights.
+### 📚 **StudySync**
+A **comprehensive e-learning platform** with **live classes, assignments, and AI-assisted grading.**
 
-### **Automated Library Management System**  
-*Library System for Efficient Book Management*  
-- Created a streamlined library management system with automated cataloging, book availability, and student record management.
+### 🖥️ **TechStudio**
+A **collaborative developer workspace** integrating **real-time coding, version control, and AI assistance.**
 
-</div>
+---
+
+## 🎓 Education & Community Involvement
+
+- **👨‍💻 Software Developer Lead** at Computer Society of India (CSI) College Club  
+- **🌍 Webmaster** for Spectra Club  
+- **🎓 B.Tech in Computer Science** | Acropolis Institute of Technology and Research (Class of 2026)  
+- **📊 Data Structures Learner & Visualizer**  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TusharJaiswal01&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharJaiswal01&theme=radical" alt="GitHub Streak" />
+</p>
+
+📌 **Let's innovate and build together! 🚀**
