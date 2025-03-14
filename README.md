@@ -70,7 +70,6 @@ A **collaborative developer workspace** integrating **real-time coding, version 
 - **👨‍💻 Software Developer Lead** at Computer Society of India (CSI) College Club  
 - **🌍 Webmaster** for Spectra Club  
 - **🎓 B.Tech in Computer Science** | Acropolis Institute of Technology and Research (Class of 2026)  
-- **📊 Data Structures Learner & Visualizer**  
 - **💼 Ex-Intern at Daphnis Lab**  
 
 ---
