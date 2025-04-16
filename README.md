@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 About Me
-I am a **MERN Stack Developer** passionate about **coding, hackathons, and building cutting-edge solutions**. With a track record of **6 hackathon victories** at both **national and international levels**, I thrive on solving real-world problems with **AI, Web3, and cloud technologies**.
+I am a **MERN Stack Developer** passionate about **coding, hackathons, and building cutting-edge solutions**. With a track record of **7 hackathon victories** at both **national and international levels**, I thrive on solving real-world problems with **AI, Web3, and cloud technologies**.
 
 📩 **Contact Me:** tusharjaiswaltj01@gmail.com  
 🌍 **GitHub:** [TusharJaiswal01](https://github.com/TusharJaiswal01)  
@@ -31,7 +31,7 @@ I am a **MERN Stack Developer** passionate about **coding, hackathons, and build
 
 ## 🏆 Achievements
 
-✔ **6x Hackathon Winner** (International & National)
+✔ **7x Hackathon Winner** (International & National)
 - **🏆 DisasterXAI (International Hackathon Winner)** - AI-driven disaster management system.
 - **🏆 Kriyeta 3.0 (Winner)** - Built *Connect4All*, a remote collaboration platform.
 - **🏆 Skitech Innothon (Winner)** - Developed *Krishak*, an AI & IoT-powered farming solution.
