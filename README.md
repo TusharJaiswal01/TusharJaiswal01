@@ -31,7 +31,7 @@ I am a **MERN Stack Developer** passionate about **coding, hackathons, and build
 
 ## 🏆 Achievements
 
-✔ **7x Hackathon Winner** (International & National)
+✔ **8x Hackathon Winner** (International & National)
 - **🏆 DisasterXAI (International Hackathon Winner)** - AI-driven disaster management system.
 - **🏆 Kriyeta 3.0 (Winner)** - Built *Connect4All*, a remote collaboration platform.
 - **🏆 Skitech Innothon (Winner)** - Developed *Krishak*, an AI & IoT-powered farming solution.
