@@ -7,13 +7,13 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF914D&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;7x+Hackathon+Winner;Building+Impactful+Projects+Globally" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF914D&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;8x+Hackathon+Winner;Building+Impactful+Projects+Globally" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
-I am a **MERN Stack Developer** passionate about **coding, hackathons, and building cutting-edge solutions**. With a track record of **7 hackathon victories** at both **national and international levels**, I thrive on solving real-world problems with **AI, Web3, and cloud technologies**.
+I am a **MERN Stack Developer** passionate about **coding, hackathons, and building cutting-edge solutions**. With a track record of **8 hackathon victories** at both **national and international levels**, I thrive on solving real-world problems with **AI, Web3, and cloud technologies**.
 
 📩 **Contact Me:** tusharjaiswaltj01@gmail.com  
 🌍 **GitHub:** [TusharJaiswal01](https://github.com/TusharJaiswal01)  
