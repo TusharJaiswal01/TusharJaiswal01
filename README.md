@@ -7,13 +7,13 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF914D&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;8x+Hackathon+Winner;Building+Impactful+Projects+Globally" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF914D&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;9x+Hackathon+Winner;Building+Impactful+Projects+Globally" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
-I am a **MERN Stack Developer** passionate about **coding, hackathons, and building cutting-edge solutions**. With a track record of **8 hackathon victories** at both **national and international levels**, I thrive on solving real-world problems with **AI, Web3, and cloud technologies**.
+I am a **MERN Stack Developer** passionate about **coding, hackathons, and building cutting-edge solutions**. With a track record of **9 hackathon victories** at both **national and international levels**, I thrive on solving real-world problems with **AI, Web3, and cloud technologies**.
 
 📩 **Contact Me:** tusharjaiswaltj01@gmail.com  
 🌍 **GitHub:** [TusharJaiswal01](https://github.com/TusharJaiswal01)  
@@ -31,12 +31,16 @@ I am a **MERN Stack Developer** passionate about **coding, hackathons, and build
 
 ## 🏆 Achievements
 
-✔ **8x Hackathon Winner** (International & National)
+✔ **9x Hackathon Winner** (International & National)
 - **🏆 DisasterXAI (International Hackathon Winner)** - AI-driven disaster management system.
 - **🏆 Kriyeta 3.0 (Winner)** - Built *Connect4All*, a remote collaboration platform.
 - **🏆 Skitech Innothon (Winner)** - Developed *Krishak*, an AI & IoT-powered farming solution.
 - **🏆 Prayatana 2.0 Hackathon (Winner)**
 - **🏆 AdvityaXJPD Hackathon (Winner)**
+- **🏆 Kriyeta 4.0 Hackathon (Winner)**
+- **🏆 Innothon 2.0 Hackathon (Winner)**
+- **🏆 Bit N Build Hackathon (Winner)**
+- **🏆 Civil War (Winner)**
 
 ---
 
